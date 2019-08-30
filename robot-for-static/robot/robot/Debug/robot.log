@@ -1,0 +1,100 @@
+﻿  main.cpp
+c:\users\asus\source\repos\robot\robot\main.cpp(34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  e:\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+c:\users\asus\source\repos\robot\robot\main.cpp(21): warning C4101: “sendBuf”: 未引用的局部变量
+  vision_detection.pb.cc
+  zss_cmd.pb.cc
+  zss_debug.pb.cc
+  正在生成代码...
+libprotobufd.lib(message_lite.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(common.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(coded_stream.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(arena.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(repeated_field.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(wire_format_lite.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(generated_message_util.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(unknown_field_set.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(generated_message_reflection.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(message.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(reflection_ops.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(wire_format.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(stringpiece.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(strutil.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(zero_copy_stream.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(zero_copy_stream_impl_lite.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(zero_copy_stream_impl.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(status.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(int128.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(implicit_weak_message.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(structurally_valid.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(stringprintf.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(extension_set.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(descriptor.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(extension_set_heavy.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(map_field.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(strtod.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(io_win32.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(text_format.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(descriptor.pb.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(tokenizer.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(descriptor_database.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(dynamic_message.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(substitute.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(any_lite.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libprotobufd.lib(any.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(uncaught_exception.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(xthrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(xlock.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(locale0.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(xonce.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(syserror.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(ios.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(mutex.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(thread0.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(nothrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(excptptr.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(iomanip.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(locale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(iosptrs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(winapisupp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(cond.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(StlLCMapStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(winapinls.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(wlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(xlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(xdateord.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(StlCompareStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+libcpmtd.lib(ppltasks.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MTd_StaticDebug”不匹配值“MDd_DynamicDebug”(main.obj 中)
+main.obj : warning LNK4217: 本地定义的符号 ?good@ios_base@std@@QBE_NXZ (public: bool __thiscall std::ios_base::good(void)const ) 在函数 "public: __thiscall std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?flags@ios_base@std@@QBEHXZ (public: int __thiscall std::ios_base::flags(void)const ) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?width@ios_base@std@@QBE_JXZ (public: __int64 __thiscall std::ios_base::width(void)const ) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?width@ios_base@std@@QAE_J_J@Z (public: __int64 __thiscall std::ios_base::width(__int64)) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?sputc@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAEHD@Z (public: int __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputc(char)) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?sputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@QAE_JPBD_J@Z (public: __int64 __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::sputn(char const *,__int64)) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?setstate@?$basic_ios@DU?$char_traits@D@std@@@std@@QAEXH_N@Z (public: void __thiscall std::basic_ios<char,struct std::char_traits<char> >::setstate(int,bool)) 在函数 __catch$??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z$0 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?tie@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_ostream@DU?$char_traits@D@std@@@2@XZ (public: class std::basic_ostream<char,struct std::char_traits<char> > * __thiscall std::basic_ios<char,struct std::char_traits<char> >::tie(void)const ) 在函数 "public: __thiscall std::basic_ostream<char,struct std::char_traits<char> >::sentry::sentry(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??0sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@AAV12@@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?rdbuf@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEPAV?$basic_streambuf@DU?$char_traits@D@std@@@2@XZ (public: class std::basic_streambuf<char,struct std::char_traits<char> > * __thiscall std::basic_ios<char,struct std::char_traits<char> >::rdbuf(void)const ) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?fill@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDXZ (public: char __thiscall std::basic_ios<char,struct std::char_traits<char> >::fill(void)const ) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::operator<<<struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &,char const *)" (??$?6U?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@PBD@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?widen@?$basic_ios@DU?$char_traits@D@std@@@std@@QBEDD@Z (public: char __thiscall std::basic_ios<char,struct std::char_traits<char> >::widen(char)const ) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@@Z) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?_Osfx@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEXXZ (public: void __thiscall std::basic_ostream<char,struct std::char_traits<char> >::_Osfx(void)) 在函数 "public: __thiscall std::basic_ostream<char,struct std::char_traits<char> >::sentry::~sentry(void)" (??1sentry@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAE@XZ) 中导入
+main.obj : warning LNK4217: 本地定义的符号 ?flush@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@XZ (public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::flush(void)) 在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@@Z) 中导入
+vision_detection.pb.obj : warning LNK4217: 本地定义的符号 ??0_Lockit@std@@QAE@H@Z (public: __thiscall std::_Lockit::_Lockit(int)) 在函数 "public: void __thiscall std::_Container_base12::_Orphan_all(void)" (?_Orphan_all@_Container_base12@std@@QAEXXZ) 中导入
+zss_cmd.pb.obj : warning LNK4049: 已导入本地定义的符号 ??0_Lockit@std@@QAE@H@Z (public: __thiscall std::_Lockit::_Lockit(int))
+zss_debug.pb.obj : warning LNK4049: 已导入本地定义的符号 ??0_Lockit@std@@QAE@H@Z (public: __thiscall std::_Lockit::_Lockit(int))
+vision_detection.pb.obj : warning LNK4217: 本地定义的符号 ??1_Lockit@std@@QAE@XZ (public: __thiscall std::_Lockit::~_Lockit(void)) 在函数 "public: void __thiscall std::_Container_base12::_Orphan_all(void)" (?_Orphan_all@_Container_base12@std@@QAEXXZ) 中导入
+zss_cmd.pb.obj : warning LNK4049: 已导入本地定义的符号 ??1_Lockit@std@@QAE@XZ (public: __thiscall std::_Lockit::~_Lockit(void))
+zss_debug.pb.obj : warning LNK4049: 已导入本地定义的符号 ??1_Lockit@std@@QAE@XZ (public: __thiscall std::_Lockit::~_Lockit(void))
+main.obj : error LNK2019: 无法解析的外部符号 __imp__closesocket@4，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__htons@4，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__inet_addr@4，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__recvfrom@24，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__socket@12，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__WSAStartup@8，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 __imp__WSACleanup@0，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(class std::basic_ostream<char,struct std::char_traits<char> > & (__cdecl*)(class std::basic_ostream<char,struct std::char_traits<char> > &))" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@P6AAAV01@AAV01@@Z@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::operator<<(float)" (__imp_??6?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV01@M@Z)，该符号在函数 _main 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "__declspec(dllimport) public: class std::basic_ostream<char,struct std::char_traits<char> > & __thiscall std::basic_ostream<char,struct std::char_traits<char> >::put(char)" (__imp_?put@?$basic_ostream@DU?$char_traits@D@std@@@std@@QAEAAV12@D@Z)，该符号在函数 "class std::basic_ostream<char,struct std::char_traits<char> > & __cdecl std::endl<char,struct std::char_traits<char> >(class std::basic_ostream<char,struct std::char_traits<char> > &)" (??$endl@DU?$char_traits@D@std@@@std@@YAAAV?$basic_ostream@DU?$char_traits@D@std@@@0@AAV10@@Z) 中被引用
+main.obj : error LNK2001: 无法解析的外部符号 "__declspec(dllimport) class std::basic_ostream<char,struct std::char_traits<char> > std::cout" (__imp_?cout@std@@3V?$basic_ostream@DU?$char_traits@D@std@@@1@A)
+C:\Users\asus\source\repos\robot\Debug\robot.exe : fatal error LNK1120: 11 个无法解析的外部命令

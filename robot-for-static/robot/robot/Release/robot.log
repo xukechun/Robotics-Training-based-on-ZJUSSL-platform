@@ -1,0 +1,61 @@
+﻿  main.cpp
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(49): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(50): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(51): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(52): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(73): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(83): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(139): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(147): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(152): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(183): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(188): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(194): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(197): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(209): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(210): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(304): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(305): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(333): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(334): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(511): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(513): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(513): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(528): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(529): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(529): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(534): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(540): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(547): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(548): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(548): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\main.cpp(398): warning C4101: “nearest”: 未引用的局部变量
+  rrt.cpp
+e:\robot_v4 - changerrt - 1\robot\robot\rrt.cpp(142): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\rrt.cpp(365): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  udp_commu_recv.cpp
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_recv.cpp(35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  udp_commu_send.cpp
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(19): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(46): warning C4244: “参数”: 从“float”转换到“google::protobuf::int32”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(53): warning C4101: “sock_fd”: 未引用的局部变量
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(82): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(83): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(84): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(85): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(111): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+e:\robot_v4 - changerrt - 1\robot\robot\udp_commu_send.cpp(101): warning C4101: “SendBuf”: 未引用的局部变量
+  vision_detection.pb.cc
+  zss_cmd.pb.cc
+  zss_debug.pb.cc
+  正在生成代码
+  2057 of 2072 functions (99.3%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  robot.vcxproj -> E:\robot_v4 - changerrt - 1\robot\Release\robot.exe
