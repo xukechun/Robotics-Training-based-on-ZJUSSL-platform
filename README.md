@@ -4,7 +4,7 @@
 
 This is the project of robotics intensive training in ZJU. All codes are tested on ZJUSSL platform.
 
-- There are three .sln in this repository aimed at three scenes.**You need to link the protobuf-3.9.1/src and robot-for-dynamics/protobuf.**
+- There are three .sln in this repository aimed at three scenes.**You need to link the protobuf-3.9.1/src and robot-for-static/protobuf.**
 - Robot-for-static is for static obstacle avoidance. Robot-for-dynamics is for dynamic obstacle avoidance. Robot-using potential field id for following obstacle avoidance.
 
 ## Installation 
