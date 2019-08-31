@@ -30,7 +30,7 @@ Robot-for-static is for static obstacle avoidance. Robot-for-dynamics is for dyn
 
 For dynamics and following obstacles, you need to run the **My Program** to start the demo.
 
-## Teammate
+## Teammates
 
 My teammates are [czju-hui](https://github.com/czju-hui
 ) and Yurui Zhang, thanks to my teammates!
