@@ -33,4 +33,4 @@ For dynamics and following obstacles, you need to run the **My Program** to star
 ## Teammates
 
 My teammates are [czju-hui](https://github.com/czju-hui
-) and [Mangmang](https://github.com/mangmang9969), thanks to my teammates!
+) and [mangmang9969](https://github.com/mangmang9969), thanks to my teammates!
